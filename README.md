@@ -15,6 +15,7 @@
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0622-design-circular-queue/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -108,4 +109,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0206-reverse-linked-list](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
