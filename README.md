@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0283-move-zeroes/) | Easy |
@@ -162,4 +163,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0075-sort-colors/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
