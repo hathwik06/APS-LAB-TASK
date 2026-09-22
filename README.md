@@ -40,6 +40,7 @@
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0622-design-circular-queue/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@
 | [0141-linked-list-cycle](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +170,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
