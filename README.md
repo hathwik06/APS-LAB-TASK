@@ -13,6 +13,7 @@
 | [0946-validate-stack-sequences](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +136,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
