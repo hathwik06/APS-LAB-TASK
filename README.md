@@ -14,6 +14,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +141,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
