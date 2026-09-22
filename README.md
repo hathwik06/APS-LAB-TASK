@@ -82,6 +82,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -99,6 +100,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -176,4 +178,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
