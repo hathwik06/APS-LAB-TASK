@@ -64,9 +64,14 @@
 | [0232-implement-queue-using-stacks](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0735-asteroid-collision](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0946-validate-stack-sequences/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 <!---LeetCode Topics End-->
