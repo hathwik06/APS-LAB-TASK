@@ -18,6 +18,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0622-design-circular-queue/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
