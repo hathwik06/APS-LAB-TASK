@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0283-move-zeroes](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0283-move-zeroes/) | Easy |
 | [0622-design-circular-queue](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0622-design-circular-queue/) | Medium |
 | [0735-asteroid-collision](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0739-daily-temperatures/) | Medium |
@@ -110,6 +111,7 @@
 | [0141-linked-list-cycle](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
