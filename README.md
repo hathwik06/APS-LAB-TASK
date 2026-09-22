@@ -9,6 +9,7 @@
 | [0219-contains-duplicate-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0283-move-zeroes/) | Easy |
+| [0496-next-greater-element-i](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0735-asteroid-collision/) | Medium |
@@ -86,6 +87,7 @@
 | [0155-min-stack](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0901-online-stock-span/) | Medium |
@@ -107,6 +109,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -121,6 +124,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0496-next-greater-element-i](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0496-next-greater-element-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
