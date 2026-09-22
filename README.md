@@ -8,6 +8,7 @@
 | [0239-sliding-window-maximum](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0283-move-zeroes/) | Easy |
 | [0622-design-circular-queue](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0622-design-circular-queue/) | Medium |
+| [0704-binary-search](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0739-daily-temperatures/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -146,4 +147,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
