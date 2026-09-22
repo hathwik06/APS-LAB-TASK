@@ -32,6 +32,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0622-design-circular-queue/) | Medium |
 | [0901-online-stock-span](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0901-online-stock-span/) | Medium |
@@ -81,6 +82,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0735-asteroid-collision](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0735-asteroid-collision/) | Medium |
