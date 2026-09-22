@@ -13,6 +13,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0141-linked-list-cycle/) | Easy |
 | [0622-design-circular-queue](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0622-design-circular-queue/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -90,4 +91,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0901-online-stock-span/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0141-linked-list-cycle/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
