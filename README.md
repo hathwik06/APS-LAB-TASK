@@ -38,6 +38,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0622-design-circular-queue/) | Medium |
 | [0901-online-stock-span](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [0239-sliding-window-maximum](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0622-design-circular-queue/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
