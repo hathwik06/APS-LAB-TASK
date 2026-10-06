@@ -61,6 +61,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0257-binary-tree-paths](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0257-binary-tree-paths/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0257-binary-tree-paths](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0257-binary-tree-paths/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0257-binary-tree-paths](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0257-binary-tree-paths/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,4 +235,8 @@
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0257-binary-tree-paths/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
