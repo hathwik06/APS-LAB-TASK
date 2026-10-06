@@ -59,6 +59,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0257-binary-tree-paths/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0020-valid-parentheses/) | Easy |
+| [0257-binary-tree-paths](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -223,4 +227,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0113-path-sum-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
