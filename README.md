@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0283-move-zeroes/) | Easy |
@@ -108,6 +109,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0075-sort-colors/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -239,4 +242,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
