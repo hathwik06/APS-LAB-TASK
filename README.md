@@ -81,6 +81,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,4 +270,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
