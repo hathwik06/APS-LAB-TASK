@@ -175,6 +175,7 @@
 | [0141-linked-list-cycle](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0496-next-greater-element-i/) | Easy |
@@ -185,6 +186,7 @@
 | [0141-linked-list-cycle](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0344-reverse-string/) | Easy |
@@ -195,6 +197,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0202-happy-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +219,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0202-happy-number/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
