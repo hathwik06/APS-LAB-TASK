@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -175,6 +176,7 @@
 | [0141-linked-list-cycle](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -209,6 +211,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Prefix Sum
@@ -240,6 +243,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -257,6 +261,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -282,4 +287,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/hathwik06/APS-LAB-TASK/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/hathwik06/APS-LAB-TASK/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
